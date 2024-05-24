@@ -1027,7 +1027,7 @@ header .header-title {
 }
 
 .blogs .blog-card {
-  width: 360px;
+  max-width: 360px;
   background-color: white;
   border: 1px solid var(--border-color-light);
   margin: auto;
